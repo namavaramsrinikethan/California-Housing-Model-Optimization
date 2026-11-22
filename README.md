@@ -2,6 +2,16 @@
 
 Extension of **Maincrafts AI/ML Internship Task 1**. Compares original Linear Regression with the cross-validated tuned Decision Tree trained on the California Housing dataset.
 
+## 🚀 Live Demo
+
+Try the interactive Model Optimization & Comparison application:
+
+https://california-housing-model-optimization.streamlit.app/
+
+This application compares predictions from Linear Regression
+and an optimized Decision Tree Regressor using the
+California Housing dataset.
+
 ## Files
 
 - `AI_ML_Task2_Model_Comparison.ipynb` — executed training, tuning, and evaluation notebook
